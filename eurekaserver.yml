@@ -1,4 +1,4 @@
-reserver:
+server:
   port: 8070
 
 eureka:
