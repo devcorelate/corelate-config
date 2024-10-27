@@ -1,8 +1,8 @@
 build:
-  version: "3.0"
+  version: "1.0"
 
 accounts:
-  message: "Welcome to Corelate accounts related local APIs "
+  message: "Welcome to Corelate accounts related local APIs for DEFAULT profile"
   contactDetails:
     name: "Seth Hernandez - Developer"
     email: "seth.hernandez@corelate.com"
