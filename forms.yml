@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+forms:
+  message: "Welcome to Corelate Forms Builder related local APIs "
+  contactDetails:
+    name: "Seth Hernandez - Developer"
+    email: "seth.hernandez@corelate.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 523-1345
