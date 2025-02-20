@@ -1,8 +1,8 @@
 build:
-  version: "2.0"
+  version: "1.0"
 
-accounts:
-  message: "Welcome to Corelate accounts related local APIs "
+app:
+  message: "Welcome to Corelate Application Builder "
   contactDetails:
     name: "Seth Hernandez - Developer"
     email: "seth.hernandez@corelate.com"
