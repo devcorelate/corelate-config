@@ -1,5 +1,5 @@
 build:
-  version: "1.0"
+  version: "1.1"
 
 app:
   message: "Welcome to Corelate Application Builder "
